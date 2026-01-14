@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
 
 ## About the Repository
-This repository contains my solutions for **Part 2** of the **Java Programming MOOC** from the University of Helsinki.
+This repository contains my code for **Part 2** of the **Java Programming MOOC** from the University of Helsinki.
 
 ### Key Concepts of the Course
 In this second part of the course, I am focusing on advanced topics such as:
