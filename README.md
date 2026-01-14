@@ -38,7 +38,5 @@ Each folder represents a specific exercise from the course, organized by section
 * **JUnit** (for testing)
 * **Git & GitHub**
 
----
-<div align="center">
-  <sub>Built with ☕ and focus by <a href="https://github.com/nickevangelista">Nick Evangelista</a></sub>
-</div>
+## Author
+Nícolas Evangelista (@nickevangelista)
