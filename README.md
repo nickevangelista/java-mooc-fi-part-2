@@ -4,7 +4,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
 
-## 🇺🇸 About the Repository
+## About the Repository
 This repository contains my solutions for **Part 2** of the renowned **Java Programming MOOC** from the University of Helsinki.
 
 ### 🚀 Key Concepts Learned
@@ -17,7 +17,6 @@ In this second part of the course, I am focusing on advanced topics such as:
 
 ## 📂 Project Structure / Estrutura do Projeto
 Each folder represents a specific exercise from the course, organized by sections.
-*Cada pasta representa um exercício específico do curso, organizado por seções.*
 
 ## 🛠️ Tools Used / Ferramentas
 * **Java 11+**
