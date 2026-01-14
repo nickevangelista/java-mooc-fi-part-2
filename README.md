@@ -7,7 +7,7 @@
 ## About the Repository
 This repository contains my solutions for **Part 2** of the renowned **Java Programming MOOC** from the University of Helsinki.
 
-### 🚀 Key Concepts Learned
+### Key Concepts of the Course
 In this second part of the course, I am focusing on advanced topics such as:
 * **Object-Oriented Programming (OOP):** Deep dive into inheritance, interfaces, and polymorphism.
 * **Data Structures:** Using Lists, HashMaps, and understanding algorithmic complexity.
@@ -15,10 +15,10 @@ In this second part of the course, I am focusing on advanced topics such as:
 * **File Handling:** Reading and writing data.
 * **Clean Code:** Writing readable, maintainable, and modular code.
 
-## 📂 Project Structure / Estrutura do Projeto
+## Project Structure
 Each folder represents a specific exercise from the course, organized by sections.
 
-## 🛠️ Tools Used / Ferramentas
+## 🛠️ Tools Used
 * **Java 11+**
 * **TMCBeans**
 * **JUnit** (for testing)
