@@ -18,7 +18,7 @@ In this second part of the course, I am focusing on advanced topics such as:
 ## Project Structure
 Each folder represents a specific exercise from the course, organized by sections.
 
-## 🛠️ Tools Used
+## Tools Used
 * **Java 11+**
 * **TMCBeans**
 * **JUnit** (for testing)
