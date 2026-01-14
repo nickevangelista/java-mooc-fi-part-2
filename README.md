@@ -20,7 +20,7 @@ Each folder represents a specific exercise from the course, organized by section
 
 ## 🛠️ Tools Used / Ferramentas
 * **Java 11+**
-* **TMCBeans / IntelliJ IDEA**
+* **TMCBeans**
 * **JUnit** (for testing)
 * **Git & GitHub**
 
