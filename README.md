@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
 
 ## 🇺🇸 About the Repository
-This repository contains my solutions for **Part 2** of the renowned **Java Programming MOOC** from the University of Helsinki. My goal is to practice daily and improve my skills in Object-Oriented Programming and Java fundamentals.
+This repository contains my solutions for **Part 2** of the renowned **Java Programming MOOC** from the University of Helsinki.
 
 ### 🚀 Key Concepts Learned
 In this second part of the course, I am focusing on advanced topics such as:
