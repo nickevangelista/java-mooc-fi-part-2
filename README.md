@@ -25,4 +25,4 @@ Each folder represents a specific exercise from the course, organized by section
 * **Git & GitHub**
 
 ## Author
-Nícolas Evangelista (@nickevangelista)
+Nícolas Evangelista (@nickevangelista) teste de novo
